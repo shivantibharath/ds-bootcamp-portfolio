@@ -1,5 +1,5 @@
 # Data Science Bootcamp Portfolio
-# 🧑‍💻 Data Science Bootcamp Portfolio
+# Data Science Bootcamp Portfolio
 
 Welcome! This repository tracks my journey to becoming a Data Scientist.  
 I’m currently completing a dual master’s in **Industrial-Organizational Psychology** and **Data Science**, with coursework in Machine Learning, Statistics, Psychometrics, and Big Data Analytics.  
@@ -8,7 +8,7 @@ This repo will grow as I work through projects and milestones over the next 12 w
 
 ---
 
-## 📅 Roadmap (12 Weeks)
+## Roadmap (12 Weeks)
 - [ ] Week 1: Python & Pandas for EDA  
 - [ ] Week 2: SQL Queries & Joins  
 - [ ] Week 3: Statistics & A/B Testing  
@@ -21,11 +21,11 @@ This repo will grow as I work through projects and milestones over the next 12 w
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ---
 
-## 📊 Projects (To be Added)
+## Projects (To be Added)
 ### 1. Employee Attrition Prediction
 - Goal: Predict likelihood of attrition using scikit-learn models  
 - Dataset: IBM HR Analytics Attrition Dataset  
@@ -41,7 +41,7 @@ This repo will grow as I work through projects and milestones over the next 12 w
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 - **Programming:** Python (Pandas, Numpy, scikit-learn, Matplotlib, Seaborn)  
 - **Databases:** SQL (joins, window functions)  
 - **Statistics:** Regression, Hypothesis Testing, A/B Testing  
@@ -50,6 +50,6 @@ This repo will grow as I work through projects and milestones over the next 12 w
 
 ---
 
-## 📫 Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link/)  
+## Contact
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/shivantibharath)  
 - GitHub: [shivantibharath](https://github.com/shivantibharath)  
