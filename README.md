@@ -50,5 +50,5 @@ This repo will grow as I work through projects and milestones over the next 12 w
 ---
 
 ## Contact
-- LinkedIn: [www.linkedin.com/in/shivantibharath](www.linkedin.com/in/shivantibharath)  
+- LinkedIn: [www.linkedin.com/in/shivantibharath](https://www.linkedin.com/in/shivantibharath)  
 - GitHub: [shivantibharath](https://github.com/shivantibharath)  
