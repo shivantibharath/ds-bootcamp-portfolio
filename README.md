@@ -1,5 +1,4 @@
 # Data Science Bootcamp Portfolio
-# Data Science Bootcamp Portfolio
 
 Welcome! This repository tracks my journey to becoming a Data Scientist.  
 I’m currently completing a dual master’s in **Industrial-Organizational Psychology** and **Data Science**, with coursework in Machine Learning, Statistics, Psychometrics, and Big Data Analytics.  
